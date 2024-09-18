@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: green;
+}
+
+.label {
+    -fx-font-size: 24px;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+    -fx-layout-x: 50%;
+    -fx-layout-y: 50%;
+    -fx-translate-x: -50%; /* Centrer horizontalement */
+    -fx-translate-y: -50%; /* Centrer verticalement */
+}
